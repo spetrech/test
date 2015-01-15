@@ -1,3 +1,4 @@
 this is a license
+now is gitignore
 it is about quartus
 not the libero
